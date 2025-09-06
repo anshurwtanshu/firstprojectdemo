@@ -31,6 +31,3 @@ A simple Amazon homepage clone built with  HTML and CSS. This project was made t
 * Enhance **styling & animations** for a modern look.
 
 
----
-
-Do you also want me to make a **short GitHub description + tags** (like the one-line project description that appears on your repo front page)?
